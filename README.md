@@ -9,4 +9,4 @@ but you don't have to remember/type the current branch name. Also it prevents yo
 If you want to push a different branch than the current one the command will not work.
 Share
 Improve this answer
-Follow
+add from branch fei
