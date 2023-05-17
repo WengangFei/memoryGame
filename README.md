@@ -1,3 +1,2 @@
-add title
-Create a memory game by using React!
+this is fetch part
 
